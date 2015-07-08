@@ -1,0 +1,14 @@
+img {
+  display: block;
+  max-height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px;
+  border: thin;
+  border-color: black;
+}
+
+p {
+  color: pink;
+  text-align: center;
+}

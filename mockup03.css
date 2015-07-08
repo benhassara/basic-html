@@ -1,0 +1,54 @@
+body {
+  background-color: blue;
+  color: white;
+}
+
+div {
+  background-color: white;
+  color: black;
+}
+
+/*.box {
+  float: left;
+  margin-left: 40px;
+}*/
+
+.left {
+  border: 2px solid black;
+  float: left;
+  margin-left: 40px;
+  margin-right: 10%;
+  padding-right: 30px;
+  padding-bottom: 7.5%;
+}
+
+.right {
+  border: 2px solid black;
+  float: left;
+  margin-right: 40px;
+  padding-right: 30px;
+  padding-bottom: 5%;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  /*position: fixed;*/
+  /*margin-top: 500px;*/
+  bottom: 0;
+  height: 40px;
+  margin: auto;
+}
+
+.contact {
+  border: 3px outset black;
+  margin-top: 210px;
+  margin-left: 175px;
+  padding-left: 5px;
+  padding-right: 5px;
+  max-width: 130px;
+  text-align: center;
+  box-shadow: 4px 4px 5px black;
+}

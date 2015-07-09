@@ -1,0 +1,16 @@
+nav {
+  border: 2px solid black;
+  padding: 3px;
+}
+
+nav a {
+  padding: 10px;
+}
+
+.label {
+  color: purple;
+}
+
+h1 {
+  color: orange;
+}

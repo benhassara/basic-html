@@ -8,11 +8,6 @@ div {
   color: black;
 }
 
-/*.box {
-  float: left;
-  margin-left: 40px;
-}*/
-
 .left {
   border: 2px solid black;
   float: left;
@@ -35,8 +30,6 @@ ul {
 }
 
 footer {
-  /*position: fixed;*/
-  /*margin-top: 500px;*/
   bottom: 0;
   height: 40px;
   margin: auto;
